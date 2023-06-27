@@ -7,7 +7,5 @@
 >
 >(*) Creating **Instagram Logo** writing python code
 >
->(*) Creating **Watch** using python
->
 >(*) Creating **Graph** using python code
 
