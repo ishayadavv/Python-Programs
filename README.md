@@ -1,7 +1,7 @@
 # Python-Programs
 >Python program codes are written to preform various operation in python and to create different project.
 >
->(1) Creating **Indian flag** using python
+>--> Creating **Indian flag** using python
 >
 >(2) Creating **Calculator** using python program
 >
